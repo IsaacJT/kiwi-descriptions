@@ -78,6 +78,7 @@
         <package name="zstd"/>
         <package name="util-linux"/>
         <package name="locales-all"/>
+        <package name="tzdata"/>
     </packages>
     <packages type="iso">
         <package name="dracut-kiwi-live"/>
