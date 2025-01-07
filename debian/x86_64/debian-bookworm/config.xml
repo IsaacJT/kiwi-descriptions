@@ -47,7 +47,7 @@
         <source path="http://ftp.halifax.rwth-aachen.de/debian"/>
     </repository>
     <repository type="apt-deb" repository_gpgcheck="false">
-        <source path="obs://Virtualization:Appliances:Builder/Debian_12"/>
+        <source path="obs://Virtualization:Appliances:Builder/Debian_12_x86_64"/>
     </repository>
     <packages type="image">
         <package name="grub-theme-starfield"/>
