@@ -87,7 +87,6 @@
         <package name="dracut-kiwi-oem-dump"/>
     </packages>
     <packages type="bootstrap">
-        <package name="grub2"/>
         <package name="usrmerge"/>
     </packages>
 </image>
